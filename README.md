@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Sunnyside agency landing page](https://tomwf.github.io/FEM-tip-calculator-app-main/)
+- Live Site URL: [Tip calculator app](https://tomwf.github.io/FEM-tip-calculator-app-main/)
 
 ## My process
 
